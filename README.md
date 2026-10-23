@@ -2,6 +2,8 @@
 
 > A personal narrative experience about growing up feeling judged, unloved, and alone.
 
+**Brand:** The Choco Studios (TCS). This is an independently developed creative project by Hasby Prasetya Saprudin; TCS is the umbrella branding identity, not a claim of formal corporate legal status.
+
 ## What is this?
 
 **why-me** is a narrative-driven project that tries to make the player *feel* what it is like to live as someone who:
