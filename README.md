@@ -2,7 +2,7 @@
 
 > A personal narrative experience about growing up feeling judged, unloved, and alone.
 
-**Brand:** The Choco Studios (TCS). This is an independently developed creative project by Hasby Prasetya Saprudin; TCS is the umbrella branding identity, not a claim of formal corporate legal status.
+**Umbrella brand identity:** The Choco Corporation (TCC). **Creative studio:** The Choco Studios (TCS), under that umbrella identity. This is an independently developed creative project by Hasby Prasetya Saprudin. The branding hierarchy describes internal identity and does not claim formal incorporation or a legal corporate structure.
 
 ## What is this?
 
